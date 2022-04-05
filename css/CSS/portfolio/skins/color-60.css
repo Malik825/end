@@ -1,0 +1,9 @@
+:root {
+    --skin-color: #8860D0;
+    --family: 'Poppins', sans-serif;
+    --primary-family: 'Hind Siliguri', sans-serif;
+}
+
+h1 {
+    font-size: 85px;
+}

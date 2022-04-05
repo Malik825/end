@@ -1,0 +1,14 @@
+:root {
+    --skin-color: #cc3a3b;
+    --family: 'Hind Siliguri', sans-serif;
+    --primary-family: 'Hind Siliguri', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Bonheur Royale', sans-serif;
+    ;
+    font-size: 88px;
+}

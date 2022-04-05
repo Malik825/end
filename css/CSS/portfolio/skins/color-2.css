@@ -1,0 +1,8 @@
+:root {
+    --skin-color: #FF5722;
+    --family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 80px;
+}
